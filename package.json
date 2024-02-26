@@ -1,6 +1,6 @@
 {
   "name": "galois-random",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url":"git+https://github.com/fenghaojiang/galois-random"
+    "url": "git+https://github.com/fenghaojiang/galois-random"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.11.1"
+  }
 }
